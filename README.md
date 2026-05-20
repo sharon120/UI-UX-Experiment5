@@ -26,7 +26,6 @@ To Present 2 different UX project scenarios (e.g., designing a health app, an e-
 10. Evaluate the final design to ensure it meets user needs and improves efficiency, accessibility, and satisfaction.
 
 ## Output:
-## Output:
 
 [View PDF Report](./UX_Case_Study_Healthcare_App.pdf)
 ## Result:
